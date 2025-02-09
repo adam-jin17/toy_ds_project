@@ -1,3 +1,3 @@
 # toy_ds_project
 
-hello
+project creation date: Feb 9th, 2025
